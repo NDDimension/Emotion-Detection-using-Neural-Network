@@ -1,7 +1,7 @@
 # 😊 Emotion Detection System
 
 > ***Understand human emotions—one sentence at a time.***  
-> 🔗 https://your-emotion-detector-app.streamlit.app/ 
+> 🔗 [https://your-emotion-detector-app.streamlit.app/](https://emotion-detection-using-neural-network-nddimension.streamlit.app/) 
 
 
 ### ⚠️ NOTE
